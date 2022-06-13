@@ -1,0 +1,19 @@
+{
+  "name": "dtdm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luccui000/chuyen-de-dien-toan-dam-may.git"
+  },
+  "author": "Minh Luc <minhluc15.ok@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luccui000/chuyen-de-dien-toan-dam-may/issues"
+  },
+  "homepage": "https://github.com/luccui000/chuyen-de-dien-toan-dam-may#readme"
+}
